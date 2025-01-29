@@ -28,6 +28,9 @@ A simple Unity Editor tool to quickly check the size of all `.fbx` files in your
 3. A window will display all `.fbx` files in your project along with their sizes.
 4. Click **"Switch Language"** to toggle between English and Russian.
 
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/6d96b92a-85ee-4b1e-9fe1-d057f8193076" />
+
+
 ## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
